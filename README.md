@@ -1,6 +1,8 @@
 # SQL-python
 
-
+cmd command:
+  pip install mysql-connector-python
+ 
 #SQL commands
 
 create database besant;
